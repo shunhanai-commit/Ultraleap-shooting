@@ -11,4 +11,5 @@ Ultraleapを用いたシューティングゲームです。
 グー：盾を構える
 ターゲットはプレーヤーを狙って球を打ってくるため、盾をうまく使い、ガードする必要があります。
 
+![スクリーンショット 2023-05-27 042604](https://github.com/shunhanai-commit/Ultraleap-shooting/assets/115204646/ab7a5202-e947-4596-ba45-bf270d0db935)
 
